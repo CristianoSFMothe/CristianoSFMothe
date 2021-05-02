@@ -1,4 +1,13 @@
-### Hi there 👋
+### Olá pessoal!! <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋 
+
+***
+[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](cristiano:cristianodevsystem@gmail.com)
+
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+</details>
 
 <!--
 **CristianoDaSilvaFerreira/CristianoDaSilvaFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
