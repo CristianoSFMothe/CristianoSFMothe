@@ -49,7 +49,10 @@ Mas havia parado por um tempo isso, pois havia surgido no meio do caminho uma no
 
 ### 💻 Tecnologia e Linguagens
 
-<a img align="center" alt="HTML5" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
+<img align="center" alt="HTML5" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%;"> <img align="center" alt="CSS3" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%;"> <img align="center" alt="JS" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"> <img align="center" alt="Java" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%;"> <img align="center" alt="Dart" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" style="max-width:60%;"> <img align="center" alt="Flutter" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" style="max-width:100%;"> <img align="center" alt="Bootstrap" heigt="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;"> <img align="center" alt="Git" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" style="max-width:100%;"> <img align="center" alt="GitHub" heigt="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;"> 
+
+
+ 
 
 
 <!--
