@@ -7,6 +7,7 @@
 - [Sobre](#-sobre) 
 - [Interesses Pessoais](#-interesses-pessoais)
 - [Formação Acadêmica](#-formacao-academica)
+- [Tecnologia e linguagens](#-tecnologia-linguagem)
 
 ### :blue_book: Sobre
 <br>Sou Front-End e aprendendo a melhorar meu conhecimento em Back-End, graduado em **Sistemas de Informações** pela a Estácio de Sá - RJ em 2020. Em 2020 passei a me dedicar em **Desenvolvimento Mobile - framework Flutter**, o que surgiu uma paixão  :heart: no qual vez eu parar um pouco o estudo e aperfeiçoamento no Front-End :disappointed_relieved:, mas voltei para o foco. :sparkling_heart:
@@ -44,6 +45,11 @@ Mas havia parado por um tempo isso, pois havia surgido no meio do caminho uma no
 
 ![Cristiano Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianodasilvaferreira&theme=radical&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianodasilvaferreira&layout=compact)](https://github.com/cristianodasilvaferreira/github-readme-stats)
 
+---
+
+### 💻 Tecnologia e Linguagens
+
+<a img align="center" alt="HTML5" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
 
 
 <!--
