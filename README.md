@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-cristianodevsystem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](cristiano:cristianodevsystem@gmail.com)
 
 ***
-[Olá] Devs (#-Ola) Devs!!
+[Olá] Devs (#-Olá) Devs!!
 Sou Front-End e aprendendo a melhorar meu conhecimento em Back-End, graduado em **Sistemas de Informações** pela a Estácio de Sá - RJ em 2020. Em 2020 passei a me dedicar em **Desenvolvimento Mobile - framework Flutter**, o que surgiu uma paixão  :heart: no qual vez eu parar um pouco o estudo e aperfeiçoamento no Front-End :disappointed_relieved:, mas voltei para o foco. :sparkling_heart:
 Venho estudando sobre HTML5 e CSS3 para tonar-se melhor no conhecimento dessa linguagens de marcação e estilo para criação de site, aprofuando no JavaScript para torna-me um **Front-End**, e procurando uma especilialização em Angular, TypeScript e NodeJS. Isso sem deixar de estudar o Flutter também, como futuramente o React Native.
 
