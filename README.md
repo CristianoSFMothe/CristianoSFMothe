@@ -52,7 +52,7 @@ Mas havia parado por um tempo isso, pois havia surgido no meio do caminho uma no
 
 ### :heavy_exclamation_mark: Contatos
 <a href="https://www.linkedin.com/in/cristiano-da-silva-ferreira/" target="_blank">
-<img align="center" alt="Linkedin" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%;"> </a> <a href="https://www.facebook.com/CristianoSilvaFerreiraTi/" target="_blank">
+<img align="center" alt="Linkedin" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"> </a> <a href="https://www.facebook.com/CristianoSilvaFerreiraTi/" target="_blank">
 <img align="center" alt="Facebook" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style="max-width:100%;"> </a> <a href="https://github.com/CristianoDaSilvaFerreira" target="_blank">
 <img align="center" alt="Linkedin" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" style="max-width:100%;"> </a>
  
