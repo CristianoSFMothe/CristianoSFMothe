@@ -10,7 +10,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-![Cristiano Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Cristiano Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianoferreira&theme=dark&show_icons=true)
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
