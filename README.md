@@ -10,7 +10,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-![Cristiano Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianodasilvaferreira&theme=radical_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianodasilvaferreira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Cristiano Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianodasilvaferreira&theme=radical&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianodasilvaferreira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details>
