@@ -4,7 +4,7 @@
 ![profile-github](https://user-images.githubusercontent.com/68359459/116831909-8d551f00-ab88-11eb-9d10-40219013ab04.jpeg)
 
 ***
-- [Sobre](#-Sobre) 
+- [Sobre](-Sobre) 
 - [Interesses Pessoais](#-interesses-pessoais)
 - [Formação Acadêmica](#-formacao-academica)
 - [Tecnologia e linguagens](#-tecnologia-linguagem)
