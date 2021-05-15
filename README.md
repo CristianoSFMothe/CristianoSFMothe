@@ -5,7 +5,7 @@
 
 ***
 ***
-- ## <a Sobre="sobre"></a> 
+- ## <a Sobre="sobre"></a> Sobre
 - [Interesses Pessoais](#interesses-pessoais)
 - [Formação Acadêmica](#formacao-academica)
 - [Tecnologia e linguagens](#tecnologia-linguagem)
