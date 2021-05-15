@@ -4,16 +4,6 @@
 ![profile-github](https://user-images.githubusercontent.com/68359459/116831909-8d551f00-ab88-11eb-9d10-40219013ab04.jpeg)
 
 ***
-- [Sobre](#-sobre) :blue_book: <br>Sou Front-End e aprendendo a melhorar meu conhecimento em Back-End, graduado em **Sistemas de Informações** pela a Estácio de Sá - RJ em 2020. Em 2020 passei a me dedicar em **Desenvolvimento Mobile - framework Flutter**, o que surgiu uma paixão  :heart: no qual vez eu parar um pouco o estudo e aperfeiçoamento no Front-End :disappointed_relieved:, mas voltei para o foco. :sparkling_heart:
-Venho estudando sobre HTML5 e CSS3 para tonar-se melhor no conhecimento dessa linguagens de marcação e estilo para criação de site, aprofuando no JavaScript para torna-me um **Front-End**, e procurando uma especilialização em Angular, TypeScript e NodeJS. Isso sem deixar de estudar o Flutter também, como futuramente o React Native.
-
-Tenho hobbies de ouvir músicas, ler, jogar ver filmes diversos e séries. Há sim sem esquecer o animes!!
-
-Creio que sempre haverá um novo nível para alcançar, uma nova dificuldade para ser superada, uma barreira para se quebra, e com foco, força e dedicação será possível a isso, e sem contar com a ajuda da comudade!!!
-- [Interesses Pessoais](#-interesses-pessoais)
-- [Formação Acadêmica](#-formacao-academica)
-- [Tecnologia e linguagens](#-tecnologia-linguagem)
-- [Contatos](#-contatos)
 
 ### :blue_book: Sobre
 <br>Sou Front-End e aprendendo a melhorar meu conhecimento em Back-End, graduado em **Sistemas de Informações** pela a Estácio de Sá - RJ em 2020. Em 2020 passei a me dedicar em **Desenvolvimento Mobile - framework Flutter**, o que surgiu uma paixão  :heart: no qual vez eu parar um pouco o estudo e aperfeiçoamento no Front-End :disappointed_relieved:, mas voltei para o foco. :sparkling_heart:
