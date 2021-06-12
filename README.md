@@ -45,13 +45,23 @@ Mas havia parado por um tempo isso, pois havia surgido no meio do caminho uma no
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-![Cristiano Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianodasilvaferreira&theme=radical&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDaSilvaFerreira&layout=compact)](https://github.com/CristianoDasSlvaFerreira/github-readme-stats)
+
 
 ---
 
 ### 💻 Tecnologia e Linguagens
 
-<img align="center" alt="HTML5" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%;"> <img align="center" alt="CSS3" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%;"> <img align="center" alt="JS" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"> <img align="center" alt="Java" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%;"> <img align="center" alt="Dart" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" style="max-width:60%;"> <img align="center" alt="Android" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" style="max-width:100%;"> <img align="center" alt="Flutter" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" style="max-width:100%;"> <img align="center" alt="VSCode" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;"> <img align="center" alt="Bootstrap" heigt="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;"> <img align="center" alt="Git" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width:100%;"> <img align="center" alt="GitHub" heigt="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;"> 
+<img align="center" alt="HTML5" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%;"> 
+<img align="center" alt="CSS3" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%;"> 
+<img align="center" alt="JS" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"> 
+<img align="center" alt="Java" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%;"> 
+<img align="center" alt="Dart" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" style="max-width:60%;"> 
+<img align="center" alt="Android" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" style="max-width:100%;"> 
+<img align="center" alt="Flutter" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" style="max-width:100%;"> 
+<img align="center" alt="VSCode" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;"> 
+<img align="center" alt="Bootstrap" heigt="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;"> 
+<img align="center" alt="Git" heigt="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width:100%;"> 
+<img align="center" alt="GitHub" heigt="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;"> 
 
 ### :heavy_exclamation_mark: Contatos
 <a href="https://www.linkedin.com/in/cristiano-da-silva-ferreira/" target="_blank">
