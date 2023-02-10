@@ -13,7 +13,7 @@
  📊 < JavaScript | Typescript | ReactJS />
 </p>
 
-<img src="https://user-images.githubusercontent.com/68359459/129458313-8ed65a4c-33e2-4637-8ace-60280316c75e.jpg">
+<img src="https://user-images.githubusercontent.com/68359459/218146937-779607db-8801-40bb-b81c-b7fbaa26d731.png" >
 
 ******
 
