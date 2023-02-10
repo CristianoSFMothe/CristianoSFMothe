@@ -1,13 +1,11 @@
 <h5 align="center">Olá pessoal!!</h5>
 <h1 align="center">Eu sou o Cristiano Ferreira <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋 </h1>
 
- 
 <div align="center">
-<a href="https://github.com/CristianoSFMothe">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSFMothe&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoSFMothe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/CristianoSFMoth">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoSFMothe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSFMothe&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
 <p align="center"> 
  ❤️ < Analista de Qualidade - QA - Jr />
  🎯 < Robot Framework | Cypress | JMemeter | Appium />
@@ -16,23 +14,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/68359459/129458313-8ed65a4c-33e2-4637-8ace-60280316c75e.jpg">
-
-##
-<h6 align="center">Tecnologias</h6>
- <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="TypScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
-  <img align="center" alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <br />
-  <br />
-  <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
-  <img align="center" alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
-  <img align="center" alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img align="center" alt="Cristiano-MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
-</div>
 
 ******
 
@@ -89,6 +70,27 @@
     <li>JMeter</p>
     <li>K6</p>
 
+******
+
+<div id="tecnologia-linguagem" />
+
+## Tecnologias 
+
+<h6 align="center">Tecnologias</h6>
+ <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="TypScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
+  <img align="center" alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <br />
+  <br />
+  <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
+  <img align="center" alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+  <img align="center" alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img alig="center" alt="Cristiano-MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
+</div>
 ******
 
 <div id='contato' />
