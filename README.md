@@ -1,10 +1,10 @@
 <h5 align="center">Olá pessoal!!</h5>
 <h1 align="center">Eu sou o Cristiano Ferreira <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋 </h1>
 
-<div align="center">
-  <a href="https://github.com/CristianoSFMoth">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoSFMothe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSFMothe&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+<a href="https://github.com/CristianoSFMothe">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?CristianoSFMothe-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?CristianoSFMothe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <p align="center"> 
  ❤️ < Analista de Qualidade - QA - Jr />
@@ -44,7 +44,7 @@
 - [Interesses Pessoais](#interesses-pessoais)
 - [Formação Acadêmica](#formacao-academica)
 - [Tecnologia e linguagens](#tecnologia-linguagem)
-- [Contatos](#contatos)
+- [Contatos](#contato)
 
 <div id='sobre' />
 
@@ -89,13 +89,13 @@
 
 ******
 
-<div id='' />
+<div id='contato' />
 
 ## Contatos
 
 <div style="display: inline_block" align="center"><br>  
-  <a href="https://www.instagram.com/cristianoferreira1094/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	 
-  <a href = "mailto:contato@cristianodevsystem.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/cristianoferreiramothe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	 
+  <a href = "mailto:cristianodevsystem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cristiano-da-silva-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" src="whatsapp://send?text=Olá_Eu_Sou_Cristiano_Ferreira&phone=+5521983765945"></a>
 
