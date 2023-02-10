@@ -29,20 +29,10 @@
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
   <img align="center" alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
   <img align="center" alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-
-</div>
-
-<div style="display: inline_block" align="center"><br>
-  <img alig="center" alt="Cristiano-ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alig="center" alt="Cristiano-MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
 </div>
 
-##
-<div style="display: inline_block" align="center"><br>  
-  <a href="https://www.instagram.com/cristianoferreira1094/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	 
-  <a href = "mailto:contato@cristianodevsystem.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristiano-da-silva-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" src="whatsapp://send?text=Olá_Eu_Sou_Cristiano_Ferreira&phone=+5521983765945"></a>
+******
 
 ![Snake animation](https://github.com/CristianoSFMothe/CristianoDaSilvaFerreira/blob/output/github-contribution-grid-snake.svg)
 
@@ -103,12 +93,11 @@
 
 ## Contatos
 
-<a href="https://github.com/CristianoSFMothe" alt="github" target="_blank"><img height="32" src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white"></a> 
-<br />
-<a href="https://www.linkedin.com/in/cristiano-da-silva-ferreira" alt="linkedin" target="_blank"> <img height="32" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a> 
-<br />
-<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<img alt="whatapp" "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<div style="display: inline_block" align="center"><br>  
+  <a href="https://www.instagram.com/cristianoferreira1094/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	 
+  <a href = "mailto:contato@cristianodevsystem.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cristiano-da-silva-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" src="whatsapp://send?text=Olá_Eu_Sou_Cristiano_Ferreira&phone=+5521983765945"></a>
 
 <!--
 **CristianoDaSilvaFerreira/CristianoDaSilvaFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
