@@ -1,11 +1,13 @@
 <h5 align="center">Olá pessoal!!</h5>
 <h1 align="center">Eu sou o Cristiano Ferreira <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋 </h1>
 
-<div>
+ 
+<div align="center">
 <a href="https://github.com/CristianoSFMothe">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?CristianoSFMothe-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?CristianoSFMothe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSFMothe&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoSFMothe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+ 
 <p align="center"> 
  ❤️ < Analista de Qualidade - QA - Jr />
  🎯 < Robot Framework | Cypress | JMemeter | Appium />
