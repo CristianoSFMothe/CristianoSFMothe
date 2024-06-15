@@ -1,119 +1,111 @@
-<h5 align="center">Olá pessoal!!</h5>
-<h1 align="center">Eu sou o Cristiano Ferreira <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋 </h1>
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
 
 <div align="center">
-  <a href="https://github.com/CristianoSFMoth">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoSFMothe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSFMothe&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CristianoSFMothe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianoSFMothe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2&custom_title=Programming%20Languages" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=CristianoSFMothe&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="10" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CristianoSFMothe&radius=16&theme=dracula&area=true&order=5&custom_title=Contribution%20Chart" height="300" alt="activity-graph graph"  />
 </div>
-<p align="center"> 
- ❤️ < Analista de Qualidade - QA - Jr />
- 🎯 < Robot Framework | Cypress | JMemeter | Appium />
- <br />
- 📊 < JavaScript | Typescript | ReactJS />
-</p>
 
-<img src="https://user-images.githubusercontent.com/68359459/218146937-779607db-8801-40bb-b81c-b7fbaa26d731.png" >
+###
 
-******
 
-![Snake animation](https://github.com/CristianoSFMothe/CristianoDaSilvaFerreira/blob/output/github-contribution-grid-snake.svg)
+<h2 align="left">Abount Me</h2>
 
- </div>
+###
 
-*****
+<p align="left">Sou Analista de Sistemas - <strong>Quality Assurance</strong>, graduado em Sistemas de Informação pela Estácio de Sá - RJ em 2020. Atuo na área de Quality Assurance com testes de software há mais de 2 anos.
+  
+<br />
 
-- [Sobre](#sobre)
-- [Interesses Pessoais](#interesses-pessoais)
-- [Formação Acadêmica](#formacao-academica)
-- [Tecnologia e linguagens](#tecnologia-linguagem)
-- [Contatos](#contato)
+<h2>Experiência Profissional</h2>
 
-<div id='sobre' />
+<br>Desde 2022, atuo com testes de software utilizando uma variedade de frameworks e ferramentas:
 
-## 📘 Sobre
+<ul>
+  <li>Cypress - Para testes de Websites e APIs</li>
+  <li>Robot Framework - Para testes de Websites, APIs e Mobile</li>
+  <li>Postman - Para testes de APIs</li>
+  <li>Cypress</li>
+</ul>
 
-<p><br><strong>Sou Analista de Sistema - QA</strong> e aprendo a melhorar o meu conhecimento em Front-End e Back-End, graduado em <strong>Sistemas de Informações</strong> pela a Estácio de Sá - RJ em 2020. Em 2022 passei a dedicar-me em <strong>Teste com Robot Framework e Cypress</strong>>, o que surgiu uma paixão  ❤️ procurando assim um aperfeiçoamento no Front-End e Back-End 😀 💖</p>
 
-<p>Tenho hobbies de ouvir músicas, ler, jogar ver filmes diversos e séries. Há sim sem esquecer o animes!!</p>
+<h2>Conhecimentos em Linguagens de Programação:</h2>
 
-<p>Creio que haverá sempre um novo nível para alcançar, uma nova dificuldade para ser superada, uma barreira para se quebra, e com foco, força e dedicação será possível a isso, e sem contar com a ajuda da comudade!!!</p>
+<ul>
+  <li>JavaScript / TypeScript</li>
+  <li>Python</li>
+</ul>
 
-******
+<h2>Outras Competências:</h2>
 
-<div id='interesses-pessoais' />
+<ul>
+  <li>Node.js e NestJS para criação de APIs</li>
+  <li>Conhecimentos básicos em ReactJS</li>
+</ul>
 
-## 📝 Interesses Pessoais
+<h2>Tecnologias e Ferramentas:</h2>
 
-<p>😁 Bem primeiramente, seria ficar milionário muito rapidamente 😄, mas como isso é bem difícil de acontecer, então será esforça cada dia mais para superar a mim mesmo!</p>
-<p>E por onde quer que passar deixar um pouco de alegria, esperaça e marcar a presença tanto (principalmete) positivamente como também negativamente (isso o menos o possível)</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+  <li>Tailwind CSS</li>
+  <li>Django</li>
+  <li>Git e GitHub</li>
+  <li>Jira</li>
+  <li>Trello</li>
+</ul>
 
-******
-<div id='formacao-academica' />
+<h2>Experiência Atual</h2>
 
-## 🎓 Formação Acadêmica
+Atualmente, trabalho na <a href="https://wlabs.io/">WLabs.io<a> como prestador de serviços para a <a href="https://www.totvs.com/">TOTVS.</a></p>
 
-<p>Como disse sou anteriormente graduado em <strong>Sistemas de Informações</strong>, pela a Estácio de Sá - RJ, no Campos do West Shop, foi lá que o amor 💘 pela tecnologia aumentou mais e mais!!!</p>
-  <p>Atualmente estou a procurar aprimorar os conhecimento em...</p>
-  <ul>
-    <li>JavaScript</li>
-    <ul>
-        <li>NodeJS</li>
-        <li>NestJS</li>
-        <li>ReactJS</li>
-      </ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>Bootstrap</p>
-    <li>Robot Framework</p>
-    <li>Cypress</p>
-    <li>JMeter</p>
-    <li>K6</p>
 
-******
+###
 
-<div id="tecnologia-linguagem" />
-
-## Tecnologias 
-
-<h6 align="center">Tecnologias</h6>
- <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="TypScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
-  <img align="center" alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <br />
-  <br />
-  <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
-  <img align="center" alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
-  <img align="center" alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img alig="center" alt="Cristiano-MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
+<div align="center">
+  <img height="200" src="https://th.bing.com/th/id/OIG1.7gdhaIxXDJ_xSfh5bRPV?w=270&h=270&c=6&r=0&o=5&pid=ImgGn"  />
 </div>
-******
 
-<div id='contato' />
-
-## Contatos
-
-<div style="display: inline_block" align="center"><br>  
-  <a href="https://www.instagram.com/cristianoferreiramothe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	 
-  <a href = "mailto:cristianodevsystem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristiano-da-silva-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" src="whatsapp://send?text=Olá_Eu_Sou_Cristiano_Ferreira&phone=+5521983765945"></a>
-
-<!--
-**CristianoDaSilvaFerreira/CristianoDaSilvaFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
