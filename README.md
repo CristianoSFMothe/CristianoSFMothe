@@ -48,7 +48,7 @@
 ###
 
 
-<h2 align="left">Abount Me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
