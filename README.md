@@ -46,7 +46,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/CristianoSFMothe/CristianoSFMothe/output/snake.svg" alt="Snake animation" />
 
 ###
 
