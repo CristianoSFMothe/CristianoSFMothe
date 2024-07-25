@@ -39,13 +39,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianoSFMothe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianoSFMothe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2&custom_title=Programming%20Languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=CristianoSFMothe&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=CristianoSFMothe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianoSFMothe&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2&size_weight=0.5&count_weight=0.5&count_private=true&custom_title=Programming%20Languages" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CristianoSFMothe&radius=16&theme=dracula&area=true&order=5&custom_title=Contribution%20Chart" height="300" alt="activity-graph graph"  />
 
 </div>
-
 
 ###
 
