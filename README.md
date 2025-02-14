@@ -98,7 +98,7 @@
 
 <h2>Experiência Atual</h2>
 
-Atualmente, trabalho na <a href="https://wlabs.io/">WLabs.io<a> como prestador de serviços para a <a href="https://www.totvs.com/">TOTVS.</a></p>
+<a href="https://wlabs.io/">WLabs.io<a> de 03/2022 - 20/2024 e pela a própria **WLabs** como terceirizado na <a href="https://www.totvs.com/">TOTVS.</a> 2023 - 2024</p>
 
 
 ###
