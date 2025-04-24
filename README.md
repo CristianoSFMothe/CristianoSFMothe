@@ -1,112 +1,86 @@
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianoSFMothe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianoSFMothe&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2&size_weight=0.5&count_weight=0.5&count_private=true&custom_title=Programming%20Languages" height="200" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CristianoSFMothe&radius=16&theme=dracula&area=true&order=5&custom_title=Contribution%20Chart" height="300" alt="activity-graph graph"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
-</div>
-
-###
-
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">Sou Analista de Sistemas - <strong>Quality Assurance</strong>, graduado em Sistemas de Informação pela Estácio de Sá - RJ em 2020. Atuo na área de Quality Assurance com testes de software há mais de 2 anos.
-  
 <br />
 
-<h2>Experiência Profissional</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&width=435&lines=Cristiano+Ferreira;Analista+de+Sistemas;Quality+Assurance" alt="Typing SVG" /></a>
 
-<br>Desde 2022, atuo com testes de software utilizando uma variedade de frameworks e ferramentas:
+</div>
 
-<ul>
-  <li>Cypress - Para testes de Websites e APIs</li>
-  <li>Robot Framework - Para testes de Websites, APIs e Mobile</li>
-  <li>Postman - Para testes de APIs</li>
-  <li>Cypress</li>
-</ul>
+<div align="center">
+  <a href="https://www.linkedin.com/in/cristiano-da-silva-ferreira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5521983765945" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
+  </a>
+  
+  <a href="cferreiramothe@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
 
-
-<h2>Conhecimentos em Linguagens de Programação:</h2>
-
-<ul>
-  <li>JavaScript / TypeScript</li>
-  <li>Python</li>
-</ul>
-
-<h2>Outras Competências:</h2>
-
-<ul>
-  <li>Node.js e NestJS para criação de APIs</li>
-  <li>Conhecimentos básicos em ReactJS</li>
-</ul>
-
-<h2>Tecnologias e Ferramentas:</h2>
-
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Bootstrap</li>
-  <li>Tailwind CSS</li>
-  <li>Django</li>
-  <li>Git e GitHub</li>
-  <li>Jira</li>
-  <li>Trello</li>
-</ul>
-
-<h2>Experiência Atual</h2>
-
-<a href="https://wlabs.io/">WLabs.io<a> de 03/2022 - 20/2024 e pela a própria **WLabs** como terceirizado na <a href="https://www.totvs.com/">TOTVS.</a> 2023 - 2024</p>
-
+  <a href="https://portfolio-qa-cristiano.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Portfolio&message=Site&logo=firefox-browser&color=0A0A0A&logoColor=white&style=flat" height="25" alt="Portfolio" />
+  </a>
+</div>
 
 ###
 
+
+## Sobre Mim  
+🎓 Bacharel em Sistemas de Informação (Estácio de Sá - RJ, Jul/2015 – Jul/2020)  
+🛠️ Analista de Testes – Quality Assurance com 3 anos de experiência  
+🚀 Foco em automação:  
+  - **Web:** Cypress | Robot Framework | Playwright  
+  - **Mobile:** Robot Framework + Appium  
+  - **API:** Cypress | Robot Framework | Postman  
+  - **Performance em API:** JMeter | k6  
+
+## Experiência  
+**[WLabs.io](https://www.linkedin.com/company/wlabs-io/)** (Mar/2022 – Dez/2024)  
+- Planejamento e execução de testes funcionais para Web, Mobile e API  
+- Responsável pela criação e manutenção de planos de testes, casos e cenários  
+- Automação Web com Cypress (cobertura de 85%) e Mobile com Robot Framework + Appium (cobertura de 90%)  
+- Experiência em versionamento de código com Git e GitHub  
+- Atendimento ao cliente em homologação e implantação de sistemas  
+- Desenvolvimento de testes automatizados com Cypress, Robot Framework e Appium  
+- Aplicação de gestão de projetos com GitHub Projects
+
+**TOTVS (via [WLabs.io](https://www.linkedin.com/company/wlabs-io/))** (2023 – 2024)  
+- Atuação como terceirizado na TOTVS em validação de funcionalidades (manuais e automatizados)  
+- Desenvolvimento de testes automatizados para Web e Mobile (cobertura de 85%) com Robot Framework  
+- Elaboração de documentação de testes e participação em homologações de sistemas  
+- Suporte às equipes de desenvolvimento e Product Owners, com forte embasamento em Scrum e Kanban  
+- Aplicação de Scrum e Kanban no Jira para gestão ágil de projetos
+- Criação e apresentação de treinamentos em PowerPoint para equipes de suporte, marketing, gestão e diretoria   
+
+
+## Tech Stack  
+### Linguagens  
+- JavaScript / TypeScript  
+- Python  
+
+### Testes & Frameworks  
+- Cypress | Robot Framework | Playwright | Appium | Postman | JMeter | k6
+
+### Front‑end  
+- HTML5 | CSS3 | Bootstrap | Tailwind CSS | ReactJs | NextJs  
+
+### Back‑end & APIs  
+- Node.js | NestJS | Django  
+
+### DevOps & Ferramentas  
+- Docker | Git | GitHub | CI/CD | Jira | Trello  
+
+
+## GitHub Stats  
 <div align="center">
-  <img height="200" src="https://th.bing.com/th/id/OIG1.7gdhaIxXDJ_xSfh5bRPV?w=270&h=270&c=6&r=0&o=5&pid=ImgGn"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CristianoSFMothe&theme=radical" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianoSFMothe&layout=compact&theme=radical" alt="Top Languages" />  
 </div>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
+
+## Contato  
+📫 cferreiramothe@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/cristiano-da-silva-ferreira/)  
+🌐 [Portfólio](https://portfolio-qa-cristiano.vercel.app/)  
